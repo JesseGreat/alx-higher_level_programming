@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-
+#!/usr/bin/python3
 """
 This script sends a request to the passed URL and displays the body of the response
 (decoded in utf-8). If there is an HTTP error, it prints the HTTP status code.
