@@ -17,4 +17,3 @@ if __name__ == "__main__":
     print(f"\t- type: {type(details)}")
     print(f"\t- content: {details}")
     print(f"\t- utf8 content: {details.decode('utf-8')}")
-

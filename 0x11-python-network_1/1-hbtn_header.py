@@ -14,4 +14,3 @@ if __name__ == "__main__":
     with urllib.request.urlopen(url) as response:
         request_id = response.getheader("X-Request-Id")
         print(request_id)
-
